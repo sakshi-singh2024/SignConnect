@@ -62,6 +62,10 @@ Upload:
 <img width="1542" height="638" alt="Screenshot 2025-10-28 213755" src="https://github.com/user-attachments/assets/397dc0c8-7fb1-4eba-8d75-61a13e3e40b9" />
 <img width="1312" height="599" alt="Screenshot 2025-10-28 213718" src="https://github.com/user-attachments/assets/73645d21-366d-4e65-9e1c-d95174b2d542" />
 
+project_flow.txt
+
+Camera → MediaPipe → Landmark Detection → Gesture Logic → Text → Speech
+
 
 
 
