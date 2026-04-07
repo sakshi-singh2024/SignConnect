@@ -1,4 +1,5 @@
 # SignConnect ✋🔊
+###Real-time Sign Language Detection using Computer Vision (OpenCV + MediaPipe)
 
 ## Overview
 SignConnect is a real-time hand gesture recognition system that converts sign language into text and speech.
